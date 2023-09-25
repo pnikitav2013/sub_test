@@ -1,0 +1,4 @@
+[submodule "esp_main_fw"]
+	path = esp_main_fw
+	url = https://github.com/zephyrproject-rtos/tinycbor.git
+	branch = zephyr
